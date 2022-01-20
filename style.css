@@ -6,6 +6,8 @@ body, html, header, nav, footer {
 body, html, header, nav, footer, p, h1, h2, h3, i, ul, li, a, i, img {
     margin: 0;
     padding: 0;
+
+
 }
 
 header, nav, .content {
